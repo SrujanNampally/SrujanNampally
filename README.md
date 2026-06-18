@@ -304,6 +304,13 @@ Future 🎯 Backend Engineer @ Product Company
 📘 Clean Code · 📙 Effective Java · 📗 Designing Data-Intensive Applications · 📕 Spring in Action · 📒 System Design Interview
 
 ---
+## 🚀 Space Invaders Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrujanNampally/SrujanNampally/output/space-invaders-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrujanNampally/SrujanNampally/output/space-invaders.svg"/>
+  <img alt="space invaders attacking contributions" src="https://raw.githubusercontent.com/SrujanNampally/SrujanNampally/output/space-invaders-dark.svg"/>
+</picture>
 
 ## 🐍 Contribution Snake
 
