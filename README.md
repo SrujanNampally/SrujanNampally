@@ -267,16 +267,6 @@ Future 🎯 Backend Engineer @ Product Company
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SrujanNampally&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 ## 🎯 2026 Goals
 
 <div align="center">
@@ -294,23 +284,6 @@ Future 🎯 Backend Engineer @ Product Company
 </div>
 
 ---
-
-## 💡 Beyond Code
-
-```text
-♟ Chess   🏏 Cricket   🎤 Public Speaking   📚 Continuous Learning
-```
-
-📘 Clean Code · 📙 Effective Java · 📗 Designing Data-Intensive Applications · 📕 Spring in Action · 📒 System Design Interview
-
----
-## 🚀 Space Invaders Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrujanNampally/SrujanNampally/output/space-invaders-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrujanNampally/SrujanNampally/output/space-invaders.svg"/>
-  <img alt="space invaders attacking contributions" src="https://raw.githubusercontent.com/SrujanNampally/SrujanNampally/output/space-invaders-dark.svg"/>
-</picture>
 
 ## 🐍 Contribution Snake
 
