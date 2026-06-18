@@ -1,4 +1,4 @@
-name: Generate Space Invaders
+name: Generate Contribution Pacman
 
 on:
   schedule:
@@ -22,13 +22,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Space Invaders SVG
-        uses: fajarwz/snk-space-invaders@main
+      - name: Generate Pacman SVG
+        uses: liununu/snk-pacman@main
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/space-invaders.svg
-            dist/space-invaders-dark.svg?palette=github-dark
+            dist/pacman.svg
+            dist/pacman-dark.svg?palette=github-dark
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
